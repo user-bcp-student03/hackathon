@@ -57,7 +57,7 @@ La épica añade restricciones: el MVP no debe asumir un único riel de procesam
 | Capa | Tecnología | Versión |
 |---|---|---|
 | Frontend | Angular | 22.2.3 |
-| Backend | Spring Boot | 4.1.1 |
+| Backend | Quarkus | 3.40.1 |
 | Lenguaje backend | Java (LTS) | 25 |
 | Base de datos | SQLite | Driver `org.xerial:sqlite-jdbc` 3.53.4.0 |
 
